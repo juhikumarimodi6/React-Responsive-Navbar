@@ -132,7 +132,7 @@ li:hover {
         align-items: center;
         justify-content: center;
         z-index: 1;
-        background-color: hotpink;
+        background-color:rgb(225, 157, 75);
         min-height: 20rem;
         border-radius: 10%;
       }
@@ -149,7 +149,7 @@ li:hover {
         border-radius:5%
       }
       .mobile-menu-link ul li:hover{
-        background-color: aqua;
+        background-color: chocolate;
         text-decoration: underline;
       }
 
